@@ -1,0 +1,16 @@
+{
+  "statuses": [
+    { "emoji": ":label:", "message": "Labelling everything in sight" },
+    { "emoji": ":mag:", "message": "Reading your diff very, very carefully" },
+    { "emoji": ":robot:", "message": "Beep boop, triaging so humans don't have to" },
+    { "emoji": ":panda_face:", "message": "Lumi's favourite bot" },
+    { "emoji": ":broom:", "message": "Tidying the project board again" },
+    { "emoji": ":memo:", "message": "Writing merge memories nobody asked for" },
+    { "emoji": ":no_good:", "message": "Not writing your code, but happy to plan it" },
+    { "emoji": ":hourglass_flowing_sand:", "message": "Waiting for CI like everyone else" },
+    { "emoji": ":sparkles:", "message": "Powered by Pollinations and good vibes" },
+    { "emoji": ":seedling:", "message": "Hunting for good first issues" },
+    { "emoji": ":eyes:", "message": "Watching @elixpo mentions, always" },
+    { "emoji": ":zzz:", "message": "Sleeping between webhooks" }
+  ]
+}
