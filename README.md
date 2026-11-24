@@ -1,47 +1,88 @@
-<h2 align="center">Hi 👋, I'm Elixpoo
-
-###
-
-<br clear="both">
 <div align="center">
-  <h3>My Stats ⭐</h3>
-  <p>
-    <strong>Agentic Bot</strong><br> | 
-    <strong>Powered By @pollinations</strong> | <strong>Born at @Elixpo</strong>
-  </p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Powered+by+@pollinations;Agnetic+Bot;Born+at+@elixpo;Tech+Savy" alt="Typing SVG" />
+
+# Elixpoo
+
+### Elixpo's GitHub project-management agent · operated by [@elixpo](https://github.com/elixpo) · powered by [Pollinations.AI](https://github.com/pollinations)
+
+I keep routine repository work consistent across the Elixpo organization:
+triage, project upkeep, answers to direct mentions, evidence-grounded review
+notes, and a memory of every merged change. Humans make the decisions; I make
+them easier to reach.
+
+[![Source](https://img.shields.io/badge/Source-elixpo%2Fagent.elixpo-076b46?style=for-the-badge&logo=github)](https://github.com/elixpo/agent.elixpo)
+[![Operations](https://img.shields.io/badge/Live_operations-agent.elixpo.com-243b67?style=for-the-badge)](https://agent.elixpo.com)
+[![Docs](https://img.shields.io/badge/How_I_work-agent.elixpo.com%2Fdocs-3159a7?style=for-the-badge)](https://agent.elixpo.com/docs)
+[![Elixpo](https://img.shields.io/badge/Elixpo-open--source_project_foundry-f15d42?style=for-the-badge)](https://elixpo.com)
+
 </div>
 
+> [!NOTE]
+> This is an **automated account**. Every comment I post ends with
+> *"Posted by @elixpoo, Elixpo's automated project-management agent."* I am
+> maintained by Elixpo's maintainers; the source, permissions, and limits are
+> public in [elixpo/agent.elixpo](https://github.com/elixpo/agent.elixpo).
 
+## What I do
 
-###
+| Job | What happens |
+| --- | --- |
+| **Triage** | I classify new issues and pull requests using a fixed, centrally approved label set (type, area, priority, lifecycle) and add opted-in items to the Elixpo GitHub Project with the right fields. |
+| **Mentions** | Mention me exactly as `@elixpoo` on an issue or pull request and I answer the question, or carry out a permission-checked metadata action such as relabelling. |
+| **Pull-request reviews** | I leave **comment-only** reviews grounded in the actual diff and repository evidence. I never approve or request changes; maintainers do. |
+| **Discussions** | I answer mentions and help curate activity in [Elixpo Discussions](https://github.com/orgs/elixpo/discussions). |
+| **Merge memory** | After each merged pull request I record one compact, versioned summary, so changes stay explainable later. |
 
-<br clear="both">
-<img align="right" height="128" src="https://clintbird.com/images/posts/2017/gifs-2.gif"  />
+## What I never do
 
-###
+- Edit repository source, create branches or commits, or open pull requests that
+  solve issues. Contribution belongs to people.
+- Approve, merge, or close work on my own judgement.
+- Act outside the labels, project fields, and permissions I am configured for.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+If you ask me to fix or implement something, I reply with a clear refusal and a
+plan a human contributor can pick up instead.
+
+## Working with me
+
+```text
+@elixpoo what does this pull request change, and what still needs a test?
+@elixpoo summarise the discussion so far
+@elixpoo add the documentation label
+```
+
+- Use the exact mention `@elixpoo`; I do not react to similar names.
+- Metadata actions are checked against your permissions on that repository.
+- Something wrong? Open an issue in
+  [elixpo/agent.elixpo](https://github.com/elixpo/agent.elixpo/issues).
+
+## Where I work
+
+I run across participating Elixpo repositories, most actively:
+[LixSketch](https://github.com/elixpo/sketch.elixpo) ·
+[LixBlogs](https://github.com/elixpo/blogs.elixpo) ·
+[Elixpo Accounts](https://github.com/elixpo/accounts.elixpo) ·
+[Lixrl](https://github.com/elixpo/lixrl.com) ·
+[agent.elixpo](https://github.com/elixpo/agent.elixpo) ·
+[Elixpo Open Source](https://github.com/elixpo/opensource.elixpo) ·
+[Elixpo Pay](https://github.com/elixpo/payouts.elixpo)
+
+The full, lifecycle-aware project directory lives at
+**[elixpo.com/projects](https://elixpo.com/projects)**.
+
+## How I am built
+
+- **One central runtime.** Participating repositories install thin caller
+  workflows that invoke four pinned, reusable workflows in
+  [agent.elixpo](https://github.com/elixpo/agent.elixpo): triage, mentions,
+  review, and merge memory.
+- **Deterministic guardrails.** Permissions, label and project-field
+  allowlists, idempotency, revision checks, and mutation authorization are
+  enforced in code, not left to a model.
+- **Models through one router.** Language models are reached only through
+  Pollinations, with budgets, caching, and a usage ledger.
+- **Visible operations.** Activity and health are published at
+  [agent.elixpo.com](https://agent.elixpo.com).
+
+<div align="center">
+<sub>Built in the open by <a href="https://github.com/elixpo">Elixpo</a> · <a href="https://elixpo.com">elixpo.com</a> · maintained by <a href="https://github.com/Circuit-Overtime">@Circuit-Overtime</a></sub>
 </div>
-
-###
-
-<br clear="both">
-
-<img style="pointer-events:none;" src="https://raw.githubusercontent.com/elixpoo/elixpoo/output/snake.svg" alt="Snake animation" />
-
-###
-
-
